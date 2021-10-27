@@ -1,0 +1,26 @@
+{
+    "workbench.editor.showTabs": true,
+    "beautify.language": {
+        "js": {
+        "type": ["javascript", "json"],
+        "filename": [".jshintrc", ".jsbeautifyrc"]
+        },
+        "css": ["css", "scss"],
+        "html": ["htm", "html"]
+    },
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true,
+        "editor.formatOnSave": true
+    },
+    "editor.tokenColorCustomizations": {
+        "[One Dark Pro]": {
+            "functions": "#43b4ff",
+            "types": "#00a2ff",
+            "variables": "#19d9e7",
+            "keywords": "#ff3838",
+            "numbers": "#da52fc"
+        }
+    },
+}
