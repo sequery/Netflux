@@ -1,5 +1,3 @@
-import { useRef } from 'react'
-import { useState } from 'react'
 import './login.scss'
 
 function Login() {
