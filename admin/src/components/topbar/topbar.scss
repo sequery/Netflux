@@ -1,0 +1,24 @@
+.topbar {
+    width: 100%;
+    height: 50%;
+    border-color: white;
+
+    .topbarWrapper {
+        height: 100%;
+        display: flex;
+        padding: 0, 20px;
+        align-items: center;
+        justify-content: space-between;
+
+        .topLeft {
+
+
+            .logo {
+                font-weight: bold;
+                color: darkblue;
+                font-style: 35px;
+                cursor: pointer;
+            }
+        }
+    }
+}

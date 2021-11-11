@@ -10,3 +10,6 @@ Netflix clone created to practice MERN stack.
   1. Go to client directory and type ```npm install``` on terminal.
   2. If you want to run the project locally you can change the urls otherwise, make sure you have internet connection.
   3. Start Your React Client by typing ```npm start```.
+
+# Status
+On Going ...
